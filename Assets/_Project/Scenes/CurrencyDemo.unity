@@ -1016,7 +1016,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7262458476507316313, guid: 278884443d66993428a63a4d3238fcb3, type: 3}
       propertyPath: m_Name
-      value: CurrencyPickup_5_B
+      value: CurrencyPickup_05_B
       objectReference: {fileID: 0}
     - target: {fileID: 9073877549837432834, guid: 278884443d66993428a63a4d3238fcb3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1749,63 +1749,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
---- !u!1001 &1322270987
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.56
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -4.09
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1582823258327911892, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1845192970032827978, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
-      propertyPath: m_Name
-      value: CurrencyPickup_01
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 2f6bbc9e21bef244abde474abe348868, type: 3}
 --- !u!1 &1454863544
 GameObject:
   m_ObjectHideFlags: 0
@@ -2317,7 +2260,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7262458476507316313, guid: 278884443d66993428a63a4d3238fcb3, type: 3}
       propertyPath: m_Name
-      value: CurrencyPickup_5_A
+      value: CurrencyPickup_05_A
       objectReference: {fileID: 0}
     - target: {fileID: 9073877549837432834, guid: 278884443d66993428a63a4d3238fcb3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2379,7 +2322,6 @@ SceneRoots:
   - {fileID: 558374709}
   - {fileID: 2903062367260977994}
   - {fileID: 786020697}
-  - {fileID: 1322270987}
   - {fileID: 710058038}
   - {fileID: 840557331}
   - {fileID: 421412076}
