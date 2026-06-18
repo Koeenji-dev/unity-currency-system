@@ -31,6 +31,15 @@ El proyecto incluye una escena de demo 2D top-down en la que el jugador se mueve
 
 ---
 
+## Portfolio y medios
+
+| Recurso | Descripción |
+|---|---|
+| [`Documentation/MEDIA_GUIDE.md`](Documentation/MEDIA_GUIDE.md) | Especificaciones de capturas y GIFs, checklist de OBS, convención de nombres y checklist final de medios. |
+| [`Documentation/VIDEO_SCRIPT.es.md`](Documentation/VIDEO_SCRIPT.es.md) | Guion completo en español con estructura por secciones, frases clave y lista de tomas OBS. |
+
+---
+
 ## Funcionalidades
 
 - `CurrencyWallet` — almacena el saldo, valida cantidades positivas, protege contra desbordamiento de entero, emite `BalanceChanged`.

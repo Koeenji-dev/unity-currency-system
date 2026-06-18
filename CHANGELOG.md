@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased] — Documentation
+
+> This section records documentation work completed after the v1.0.0 release. No functional, runtime or configuration changes are included.
+
+### Added (docs only)
+
+- `Documentation/MEDIA_GUIDE.md` — screenshot and GIF specifications, OBS recording checklist, file naming convention and final media checklist for portfolio presentation.
+- `Documentation/VIDEO_SCRIPT.es.md` — full Spanish-language video script with section structure, OBS shot list, key phrases and pre-recording checklist.
+- Portfolio & Media section added to `README.md` and `README.es.md` linking the two new documents.
+
+---
+
 ## [1.0.0] - 2026-06-17
 
 ### Added

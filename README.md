@@ -31,6 +31,15 @@ The project includes a top-down 2D demo scene where the player moves with the ke
 
 ---
 
+## Portfolio & Media
+
+| Resource | Description |
+|---|---|
+| [`Documentation/MEDIA_GUIDE.md`](Documentation/MEDIA_GUIDE.md) | Screenshot and GIF specifications, OBS checklist, file naming convention and final media checklist. |
+| [`Documentation/VIDEO_SCRIPT.es.md`](Documentation/VIDEO_SCRIPT.es.md) | Full Spanish-language video script with section structure, key phrases and OBS shot list. |
+
+---
+
 ## Features
 
 - `CurrencyWallet` — stores balance, validates positive amounts, protects against integer overflow, emits `BalanceChanged`.
